@@ -42,3 +42,20 @@ python run_glue.py \
   ...
 ```
 
+## Citation
+You can find further details in our paper:
+
+Yi-Ling Chung, Marco Guerini, and Rodrigo Agerri. 2021. <em>Multilingual Counter Narrative Type Classification.</em> In Proceedings of the 8th Workshop on Argument Mining.
+
+
+```bibtex
+@inproceedings{chung-etal-2021-multilingual,
+    title = "{Multilingual Counter Narrative Type Classification",
+    author = "Chung, Yi-Ling and Guerini, Marco and Agerri, Rodrigo ",
+    booktitle = "Proceedings of the 8th Workshop on Argument Mining",
+    month = nov,
+    year = "2021",
+    url = "https://arxiv.org/abs/2109.13664",
+}
+```
+
